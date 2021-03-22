@@ -8,6 +8,10 @@ a{
     padding:10px;
     margin: 0 5px;
 }
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
 
 .flex{
     display: flex;
